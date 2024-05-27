@@ -1,0 +1,1 @@
+https://api.openweathermap.org/data/2.5/weather?q=belgaum&appid=ddf717f3f0a3fbf87de02aabea2721a0&units=metric
